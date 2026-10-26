@@ -1,0 +1,6 @@
+{
+  "name": "VendorContract Pro - Vendor Contract Lifecycle & Sheet Monitor",
+  "description": "Aplikasi manajemen dan pemantauan aktif kontrak vendor real-time terintegrasi Google Sheets dengan notifikasi email otomatis dan Google Apps Script engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
